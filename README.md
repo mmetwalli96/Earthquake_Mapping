@@ -1,3 +1,7 @@
+# Project Overview
+
+Mapped earthquake data that is being updated every week on a static webpage. There are three mapp settings streets, satellite, and dark. 
+
 # Project Tasks
 
 - Add tectonic plate data using d3.json(), add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
